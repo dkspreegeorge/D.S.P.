@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public interface Publisher {
+public interface Publisher extends Node {
 	public static String channelName = "";
 	
 	

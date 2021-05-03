@@ -1,5 +1,5 @@
 
-public interface Broker {
+public interface Broker  extends Node{
 	//registeredUsers List<Consumer>;
 	//rigestereedPublishers List<Publisher>;
 	
